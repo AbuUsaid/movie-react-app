@@ -2,6 +2,8 @@
 
 Welcome to the Movie Land app, a platform for exploring and discovering your favorite movies and TV shows!
 
+![MoviesApp gif](MoviesApp.gif)
+
 ## Getting Started
 
 Follow these simple steps to get started with the Movie Land app:
@@ -15,3 +17,5 @@ Follow these simple steps to get started with the Movie Land app:
    ``` npm start ```
 5. **Open in your Browser:** Once the development server is running, open your web browser and go to http://localhost:3000 to access the Movie Land app.
 
+## OMDB API Integration
+The Movie Land app utilizes the OMDB API (The Open Movie Database) to fetch data related to movies and TV shows. This API provides valuable information about films, including details, ratings, and more. https://www.omdbapi.com/
